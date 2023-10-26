@@ -1,0 +1,26 @@
+body{
+    background-image: url(3474278.jpg);
+    background-size: 100%;
+    color: white;
+}
+h1{
+    background-color: #166165c3;
+    border-radius: 4px;
+    margin-top: 8%;
+    font-size: 50px;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding: 10px;
+    font-family: system-ui;
+}
+p{
+    background-color: #166165c3;
+    border-radius: 4px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 30px;
+    margin-top: 60px;
+    margin-left: 228px;
+    margin-right: 228px;
+    padding-bottom: 30px;
+}
